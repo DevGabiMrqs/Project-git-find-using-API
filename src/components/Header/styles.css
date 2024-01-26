@@ -1,0 +1,17 @@
+header {
+    background-color:  #2D333B;
+    width: 100%;
+    height:52px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: #FFF;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: 'Inter, Roboto, Arial';
+}
